@@ -1,11 +1,11 @@
 Catatan
 username	: Abiyyu
 password	: Abiyyu
-SQL Injection : unknown' or '1'='1
-
-
 
 
 Untuk Menjalankan :
 Buka Terminal Bash
 Jalankan Node menggunakan perintah -> node --watch app.js
+Nyalakan Xampp
+node bruteforce.js
+
